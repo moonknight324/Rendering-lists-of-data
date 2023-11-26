@@ -1,0 +1,20 @@
+.display-box{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.list-items{
+  color: blue;
+  margin-left: 5px;
+  list-style-type: none;
+}
+
+.ele{
+  margin-left: 20px;
+}
